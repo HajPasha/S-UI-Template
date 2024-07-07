@@ -1,3 +1,4 @@
+[For English Documentation Click Here](https://github.com/PashaGH8101/S-UI-Template/blob/main/ReadMe.md)
 در ابتدا می‌خواهم شخصاً از [@alireza0](https://github.com/alireza0) تشکر کنم بابت ساخت پنل S-UI که با این ابزار فوق‌العاده، می‌توانیم راحت‌تر از همیشه از هسته Sing-box استفاده کنیم.
 
 برای راحتی بیشتر افراد در مطالعه این مقاله، می‌توانید از دسته‌بندی زیر استفاده کنید:
