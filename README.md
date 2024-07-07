@@ -1,4 +1,4 @@
-# S-UI-Template
+# S-UI Template
 Learning How to Set-up a new S-UI panel and Or Sing-Box Core with ease in both Persian and English 
 
 [برای متن فارسی این ماقاله اینجا کلیک کنید](https://github.com/PashaGH8101/S-UI-Template/edit/main/README_FA.md)
